@@ -1,0 +1,11 @@
+h1 {
+  color: darkred;
+}
+p {
+  color: purple;
+}
+body {
+  background-color: purple;
+  font-family: sans-serif;
+  text-align: center;
+}
