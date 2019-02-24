@@ -2,7 +2,7 @@
 #### {Quiz-board is a programme that allows one to answer questions and grades them.}
 #### By **{Emma Kibore}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{Quiz-board prompts the user to answer questions with multiple choices provided.The user is then graded after completing the questionare.}
 ## Setup/Installation Requirements
 * pc
 * Atom
