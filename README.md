@@ -23,3 +23,6 @@ jquery
 javascript
 ## Support and contact details
 {In case of any issues or concerns,please contact me through my email at emmaKibore@gmail.com or through mobile at 0702499205.}
+### License
+MIT License
+copyright (c) 2019 EmmaKibore
