@@ -1,5 +1,5 @@
 $(document).ready(function() {
-$("#Quiz").submit(function(event){
+$("#Quiz").submit(function(event) {
      event.preventDefault();
       var qtn1 = parseInt($("input:radio[name=1]:checked").val());
       var qtn2 = parseInt($("input:radio[name=2]:checked").val());
@@ -7,7 +7,7 @@ $("#Quiz").submit(function(event){
       var qtn4 = parseInt($("input:radio[name=4]:checked").val());
       var qtn5 = parseInt($("input:radio[name=5]:checked").val());
 
-    var total = qtn1 + qtn2 + qtn3 +qtn4 + qtn5 ;
+    var total = qtn1 + qtn2 + qtn3 + qtn4 + qtn5 ;
     var result = '';
 
 function getTotal(sum) {
