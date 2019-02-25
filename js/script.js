@@ -8,3 +8,11 @@ $("Quiz#Quiz").click(function(){
       var qtn4 = parseInt($("input:radio[name=qtn4]:checked").val());
       var qtn5 = parseInt($("input:radio[name=qtn5]:checked").val());
       $("#display").text(q1+q2+q3+q4+q5);
+
+function getResult (sum) {
+  if (sum < 50) {
+    result = you have failed
+    return result
+  }else if (50 < && sum < 80) {
+    result = you have perfomed fairly
+  } else {80}
