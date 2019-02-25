@@ -10,10 +10,11 @@
 * Github
 
 ## Program Specifications
-|User input   |input        |  output  %      |
+|User input   |input        |  output  %     |
 |:-----------:|-------------|----------------|
 | Correct     |  5          |   20%          |
 |incorrect    |  0          |   0%           |
+|-------------|-------------|----------------|
 ## Technologies Used
 html
 css
