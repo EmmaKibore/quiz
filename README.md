@@ -16,11 +16,9 @@
 |incorrect    |  0          |   0%           |
 |-------------|-------------|----------------|
 ## Technologies Used
-html
-css
-bootstrap
-jquery
-javascript
+* css
+* bootstrap
+* javascript
 ## Support and contact details
 {In case of any issues or concerns,please contact me through my email at emmaKibore@gmail.com or through mobile at 0702499205.}
 ### License
