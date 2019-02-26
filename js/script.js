@@ -1,3 +1,4 @@
+//Business logic
 $(document).ready(function() {
 $("#Quiz").submit(function(event) {
      event.preventDefault();
@@ -7,6 +8,7 @@ $("#Quiz").submit(function(event) {
       var qtn4 = parseInt($("input:radio[name=4]:checked").val());
       var qtn5 = parseInt($("input:radio[name=5]:checked").val());
 
+//User interface
     var total = qtn1 + qtn2 + qtn3 + qtn4 + qtn5 ;
     var result = '';
 

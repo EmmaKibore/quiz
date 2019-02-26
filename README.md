@@ -1,4 +1,4 @@
-# {Quiz-board}
+# Quiz-board
 #### {Quiz-board is a programme that allows one to answer questions and grades them.}
 #### By **{Emma Kibore}**
 
